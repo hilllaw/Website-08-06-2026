@@ -53,3 +53,4 @@ footer.site .cols{grid-template-columns:1fr 1fr 1fr 1fr;gap:28px}
 .zitat{margin:1.5em 0;padding:.3em 0 .3em 22px;border-left:3px solid var(--green);color:var(--muted);font-size:.92rem;line-height:1.6;max-width:70ch}
 .zitat cite{display:block;margin-top:.7em;font-style:normal;color:var(--ink);font-size:.9rem}
 @media(max-width:760px){footer.site .cols{grid-template-columns:1fr}}
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
